@@ -28,6 +28,24 @@
   </a>
 </div>
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,sass,git,github,vscode" />
+  </a>
+</div>
+
+ <hr/>
+
+ 
+ 
+
+        
+    
+
 
 <!---
 bbbyk105/bbbyk105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
