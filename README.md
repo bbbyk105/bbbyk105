@@ -12,7 +12,7 @@
  
  🔭 I’m currently learning **JavaScript, sass**
  
- ⚡ My hobbies: **Sauna, Mascle Training, Trip**
+ ⚡ My hobbies: **Sauna, Workout, Trip**
 
   </div>
 
