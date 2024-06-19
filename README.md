@@ -31,8 +31,6 @@
  <hr/>
 
  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bbbyk105&show_icons=true&theme=transparent)
-
-
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -46,11 +44,10 @@
  <hr/>
 
 
-![](https://raw.githubusercontent.com/bbbyk105/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/bbbyk105/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/bbbyk105/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/bbbyk105/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://github.com/bbbyk105/my-status/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/bbbyk105/my-status/blob/master/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/bbbyk105/my-status/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/bbbyk105/my-status/blob/master/generated/languages.svg#gh-light-mode-only)
  
  
 
