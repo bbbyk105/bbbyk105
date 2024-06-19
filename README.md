@@ -36,7 +36,7 @@
 
  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bbbyk105&show_icons=true&theme=transparent)
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">:ballot_box_with_check: Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
