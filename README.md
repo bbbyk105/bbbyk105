@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently learning **JavaScript, sass**
+ 🔭 I’m currently learning **Next.js,Tailwindcss**
  
  ⚡ My hobbies: **Sauna, Workout, Trip**
 
@@ -40,7 +40,7 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,sass,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,sass,tailwindcss,next,supabase,git,github,vscode" />
   </a>
 </div>
 
