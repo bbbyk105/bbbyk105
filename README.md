@@ -12,7 +12,7 @@
  
  🔭 I’m currently learning **Next.js,Tailwindcss**
  
- ⚡ My hobbies: **Sauna, Workout, Trip**
+ ⚡ My hobbies: **Workout, Trip**
 
   </div>
 
