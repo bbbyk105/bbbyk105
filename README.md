@@ -47,6 +47,15 @@
  <br/>
  <hr/>
 
+![GitHub contributions in the last year ](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbbyk105&theme=transparent)
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bbbyk105&theme=transparent" alt="GitHub stats card" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bbbyk105&theme=2077&utcOffset=-8" alt="Productive time card" />
+</p>
+
+
+
 
 
 
