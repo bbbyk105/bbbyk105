@@ -48,12 +48,7 @@
  <hr/>
 
 
-<div align="center">
-  <img src="https://github.com/bbbyk105/my-status/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Overview Stats" />
-  <img src="https://github.com/bbbyk105/my-status/blob/master/generated/overview.svg#gh-light-mode-only" alt="Overview Stats" />
-  <img src="https://github.com/bbbyk105/my-status/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Languages Stats" />
-  <img src="https://github.com/bbbyk105/my-status/blob/master/generated/languages.svg#gh-light-mode-only" alt="Languages Stats" />
-</div>
+
 
  
  
