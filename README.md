@@ -50,13 +50,13 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bbbyk105&theme=transparent" alt="GitHub Stats Card" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bbbyk105&theme=2077&utcOffset=-8" alt="Productive Time Card" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bbbyk105&theme=2077&utcOffset=+9" alt="Productive Time Card" />
 </p>
 
 <hr/>
 
 <div align="center">
     <a href="https://stats.deeptrain.net/user/bbbyk105?theme=dark">
-        <img src="https://stats.deeptrain.net/user/bbbyk105?theme=dark" alt="bbbyk105's Github Stats">
+        <img src="https://stats.deeptrain.net/user/bbbyk105?theme=dark" alt="bbbyk105's Github Status">
     </a>
 </div>
