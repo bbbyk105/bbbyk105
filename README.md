@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,sass,tailwindcss,next,supabase,git,github,vscode" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,sass,tailwindcss,next,php,laravel,supabase,git,github,vscode" alt="Skills" />
   </a>
 </div>
 
