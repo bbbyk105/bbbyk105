@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently learning **Next.js, Tailwindcss** <br/>
+ 🔭 I’m currently learning **PHP, TypeScript** <br/>
  ⚡ My hobbies: **Workout, Trip**
 
 </div>
