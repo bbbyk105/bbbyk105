@@ -57,6 +57,6 @@
 
 <div align="center">
     <a href="https://stats.deeptrain.net/user/bbbyk105?theme=dark">
-        <img src="https://stats.deeptrain.net/user/bbbyk105?theme=dark" alt="bbbyk105's Github Stats">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bbbyk105&theme=dark&exclude={exclude})" alt="bbbyk105's Github Stats">
     </a>
 </div>
