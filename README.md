@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently learning **PHP, TypeScript** <br/>
+ 🔭 I’m currently learning **Prisma, Flutter** <br/>
  ⚡ My hobbies: **Workout, Trip**
 
 </div>
@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,sass,tailwindcss,next,php,laravel,supabase,git,github,vscode" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=react,ts,tailwindcss,next,prisma,flutter,aws" alt="Skills" />
   </a>
 </div>
 
