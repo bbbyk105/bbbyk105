@@ -16,7 +16,7 @@
 </div>
 
 <div align="center"> 
-  <a href="mailto:bbbyk105@gmail.com">
+  <a href="mailto:info@evimeria105.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge" />
   </a>
   <a href="https://www.linkedin.com/in/%E7%99%BD%E8%99%8E-%E8%BF%91%E8%97%A4-983273319/" target="_blank">
