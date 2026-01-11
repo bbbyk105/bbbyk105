@@ -46,8 +46,3 @@
 
 <br/>
 <hr/>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bbbyk105&theme=transparent" alt="GitHub Stats Card" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bbbyk105&theme=2077&utcOffset=+9" alt="Productive Time Card" />
-</p>
