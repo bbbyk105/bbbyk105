@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/%E7%99%BD%E8%99%8E-%E8%BF%91%E8%97%A4-983273319/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://main--bbbyk105portfolio.netlify.app/" target="_blank">
+  <a href="https://www.evimeria105.com" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge" />
   </a>
 </div>
