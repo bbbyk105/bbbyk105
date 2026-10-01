@@ -26,8 +26,6 @@
   </a>
 </div>
 
-<hr/>
-
 <h2 align="center">:ballot_box_with_check: Languages-Frameworks-Tools</h2>
 
 <div align="center">
