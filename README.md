@@ -28,12 +28,6 @@
 
 <hr/>
 
-<div align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=bbbyk105&theme=tokyo-night" alt="GitHub Activity Graph" />
-    </a>
-</div>
-
 <hr/>
 
 <h2 align="center">:ballot_box_with_check: Languages-Frameworks-Tools</h2>
